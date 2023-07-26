@@ -10,3 +10,5 @@ b College of Environmental Science and Engineering, Tianjin Key Laboratory of En
 
 # Abstract 
 Microplastics (MPs) are ubiquitously distributed in freshwater systems and they can determine the environmental fate of organic pollutants (OPs) via sorption interaction. However, the diverse physicochemical properties of MPs and the wide range of OP species make a deeper understanding of sorption mechanisms challenging. Traditional isotherm-based sorption models are limited in their universality since they normally only consider the nature and characteristics of either sorbents or sorbates individually. Therefore, only specific equilibrium concentrations or specific sorption isotherms can be used to predict sorption. To systematically evaluate and predict OP sorption under the influence of both MPs and OPs properties, we collected 475 sorption data from peer-reviewed publications and developed a poly-parameter-linear-free-energy-relationship-embedded machine learning method to analyze the collected sorption datasets. Models of different algorithms were compared.
+
+# Description
