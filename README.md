@@ -5,7 +5,7 @@ This Github includes codes and data for the project of 'Predicting Aqueous Sorpt
 Ye Qiu a,1, Zhejun Li a,1, Tong Zhang b, Ping Zhang a*
 
 a Department of Civil and Environmental Engineering, Faculty of Science and Technology
-University of Macau, Taipa, Macau SAR
+University of Macau, Taipa, Macau SAR  
 b College of Environmental Science and Engineering, Tianjin Key Laboratory of Environmental Remediation and Pollution Control, Nankai University, 38 Tongyan Rd., Tianjin 300350, China
 
 # Abstract 
