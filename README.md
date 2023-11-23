@@ -1,5 +1,6 @@
 # Predicting-Aqueous-Sorption-of-Organic-Pollutants-on-Microplastics-with-Machine-Learning
 This Github includes codes and data for the project of 'Predicting Aqueous Sorption of Organic Pollutants on Microplastics with Machine Learning'.
+Link: https://doi.org/10.1016/j.watres.2023.120503
 
 # Authors
 Ye Qiu a,1, Zhejun Li a,1, Tong Zhang b, Ping Zhang a*
