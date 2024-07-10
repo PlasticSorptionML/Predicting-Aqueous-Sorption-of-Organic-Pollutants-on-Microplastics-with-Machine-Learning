@@ -23,7 +23,7 @@ data_6.csv - raw data of sorbate parameters (SSA , C%, H/C, O/H), sorbent parame
           SSA (m2 g-1), carbon content (C%), hydrogen to carbon ratio (H/C) and surface oxygen to carbon ratio (O/H) are the indicators for physical property, homogeneity,            aromaticity, and polarity of MPs.  
           log(Kd): base-10 logarithm of Kd.  
 
-Pearson_correlation.ipny - plotting correlation heatmap for the correlation among sorbate parameters (SSA , C%, H/C, O/H), sorbent parameters (E, S, A, B, V) and sorption coefficient (base-10 logarithm of Kd) and the correlation among physical parameters (SSA, particle size, and pore volume).  
+Pearson_correlation.ipynb - plotting correlation heatmap for the correlation among sorbate parameters (SSA , C%, H/C, O/H), sorbent parameters (E, S, A, B, V) and sorption coefficient (base-10 logarithm of Kd) and the correlation among physical parameters (SSA, particle size, and pore volume).  
 
 texture parameters(1).csv - raw data of MPs physical parameters (SSA, particle size, and pore volume).   
 
